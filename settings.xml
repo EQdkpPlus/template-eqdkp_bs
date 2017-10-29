@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings styleversion="0.1.0">
+	<template_path>eqdkp_bs</template_path>
+	<attendees_columns>6</attendees_columns>
+	<logo_position>left</logo_position>
+	<favicon_img></favicon_img>
+	<banner_img></banner_img>
+	<background_img></background_img>
+	<column_right_width>0px</column_right_width>
+	<column_left_width>0px</column_left_width>
+	<portal_width>0px</portal_width>
+	<background_pos>normal</background_pos>
+	<background_type>0</background_type>
+	<body_background_color>#000000</body_background_color>
+	<body_font_color>rgb(255, 255, 255)</body_font_color>
+	<body_font_size>13</body_font_size>
+	<body_font_family>'Droid Sans', Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', Helvetica, Arial, sans-s</body_font_family>
+	<body_link_color>rgb(254, 254, 254)</body_link_color>
+	<body_link_color_hover>rgb(255, 255, 255)</body_link_color_hover>
+	<body_link_decoration>none</body_link_decoration>
+	<container_background_color>#2c2c2c</container_background_color>
+	<container_border_color>#2c2c2c</container_border_color>
+	<content_background_color>#131313</content_background_color>
+	<content_font_color>#ffffff</content_font_color>
+	<content_font_color_headings>#ffffff</content_font_color_headings>
+	<content_link_color>#c0b9a2</content_link_color>
+	<content_link_color_hover>#a6a18f</content_link_color_hover>
+	<content_border_color>#131313</content_border_color>
+	<content_accent_color>#a53512</content_accent_color>
+	<userarea_background_color>#000000</userarea_background_color>
+	<userarea_font_color>rgb(217, 215, 215)</userarea_font_color>
+	<userarea_link_color>rgb(217, 215, 215)</userarea_link_color>
+	<userarea_link_color_hover>rgb(255, 255, 255)</userarea_link_color_hover>
+	<table_th_background_color>#000000</table_th_background_color>
+	<table_th_font_color>#ececec</table_th_font_color>
+	<table_tr_font_color>#ffffff</table_tr_font_color>
+	<table_tr_background_color1>#131313</table_tr_background_color1>
+	<table_tr_background_color2>#313131</table_tr_background_color2>
+	<table_tr_background_color_hover>#4e4e4e</table_tr_background_color_hover>
+	<table_border_color>#444444</table_border_color>
+	<menu_background_color>#000000</menu_background_color>
+	<menu_font_color>rgb(217, 215, 215)</menu_font_color>
+	<menu_item_background_color>rgba(255, 255, 255, 0)</menu_item_background_color>
+	<menu_item_background_color_hover>rgb(0, 0, 0)</menu_item_background_color_hover>
+	<menu_item_font_color_hover>#ffffff</menu_item_font_color_hover>
+	<sidebar_background_color>rgb(234, 234, 234)</sidebar_background_color>
+	<sidebar_font_color>rgb(0, 0, 0)</sidebar_font_color>
+	<sidebar_border_color>rgb(204, 204, 204)</sidebar_border_color>
+	<button_background_color>#a53512</button_background_color>
+	<button_font_color>#ffffff</button_font_color>
+	<button_border_color>#a53512</button_border_color>
+	<button_background_color_hover>#c4431b</button_background_color_hover>
+	<button_font_color_hover>#ffffff</button_font_color_hover>
+	<button_border_color_hover>#c4431b</button_border_color_hover>
+	<input_background_color>rgb(255, 255, 255)</input_background_color>
+	<input_border_color>rgb(204, 204, 204)</input_border_color>
+	<input_font_color>rgb(85, 85, 85)</input_font_color>
+	<input_background_color_active>rgb(255, 255, 255)</input_background_color_active>
+	<input_border_color_active>#c4431b</input_border_color_active>
+	<input_font_color_active>rgb(85, 85, 85)</input_font_color_active>
+	<content_contrast_color>#000000</content_contrast_color>
+	<content_contrast_background_color>#fcfdfe</content_contrast_background_color>
+	<content_contrast_border_color>#545454</content_contrast_border_color>
+	<content_positive_color>rgb(51, 204, 51)</content_positive_color>
+	<content_negative_color>rgb(226, 59, 48)</content_negative_color>
+	<content_neutral_color>rgb(153, 153, 153)</content_neutral_color>
+	<content_highlight_color>#a53512</content_highlight_color>
+	<misc_color1>#a53512</misc_color1>
+	<misc_color2>rgb(255, 255, 255)</misc_color2>
+	<misc_color3></misc_color3>
+	<misc_text1></misc_text1>
+	<misc_text2></misc_text2>
+	<misc_text3></misc_text3>
+	<additional_less>@styleCommentContainerBackgroundColor: #cbcbcb;
+	@styleCommentContainerBorderColor: #cbcbcb;
+	@styleCommentAuthorColor: #7b7b7b;
+
+	@stylePaginationBorderColor: #fff;
+	@stylePaginationBackgroundColor: #fff;
+	@stylePaginationActiveBackgroundColor: #3e4148;
+	@stylePaginationActiveColor: #fff;
+	@stylePaginationActiveHoverBackgroundColor: #3e4148;
+	@stylePaginationActiveHoverColor: #fff;
+
+
+	@styleArticleSitemapBorderColor: #ddd;
+	@styleArticleSitemapBackgroundColor: transparent;
+	@styleArticleSitemapActiveBackgroundColor: #3e4148;
+	@styleArticleSitemapActiveColor: #fff;
+	@styleArticleSitemapHoverColor: #000;
+
+	</additional_less>
+	<additional_fields>Array</additional_fields>
+	<editor_theme>lightgray</editor_theme>
+	<classcolors>
+		<cc_0></cc_0>
+		<cc_1>#C41F3B</cc_1>
+		<cc_2>#FF7D0A</cc_2>
+		<cc_3>#ABD473</cc_3>
+		<cc_4>#69CCF0</cc_4>
+		<cc_5>#F58CBA</cc_5>
+		<cc_6>#FFFFFF</cc_6>
+		<cc_7>#FFF569</cc_7>
+		<cc_8>#0070DE</cc_8>
+		<cc_9>#9482C9</cc_9>
+		<cc_10>#C79C6E</cc_10>
+	</classcolors>
+</settings>
