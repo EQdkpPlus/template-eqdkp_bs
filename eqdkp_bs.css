@@ -1335,7 +1335,6 @@ img {
 }
 
 input.ui-spinner-input, input.ui-spinner-input:focus, input.ui-spinner-input:hover {
-	background:transparent;
 	border:none;
 	box-shadow: none;
 }
