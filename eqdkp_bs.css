@@ -561,6 +561,10 @@ h3 {
 	color: #9b9b9b;
 	text-align: center;
 }
+
+#mainmenu .nav-mobile {
+	text-align: left;
+}
 ul.mainmenu {
 	font-family: 'Nothing You Could Do';
 	width: 100%;
