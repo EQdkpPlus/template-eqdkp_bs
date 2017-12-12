@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<settings styleversion="0.1.0">
+<settings styleversion="0.1.1">
 	<template_path>eqdkp_bs</template_path>
 	<attendees_columns>6</attendees_columns>
 	<logo_position>left</logo_position>
@@ -90,7 +90,7 @@
 	@styleArticleSitemapHoverColor: #000;
 
 	</additional_less>
-	<additional_fields>Array</additional_fields>
+	<additional_fields></additional_fields>
 	<editor_theme>lightgray</editor_theme>
 	<classcolors>
 		<cc_0></cc_0>
